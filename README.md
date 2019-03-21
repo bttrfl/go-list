@@ -9,7 +9,6 @@
 * https://morsmachine.dk/go-scheduler
 * https://morsmachine.dk/netpoller
 * http://dmitryvorobev.blogspot.com/2016/08/golang-channels-implementation.html
-* https://blog.golang.org/pipelines
 * https://medium.com/i0exception/runtime-overhead-of-using-defer-in-go-7140d5c40e32
 * https://medium.com/@Martynas/formatting-date-and-time-in-golang-5816112bf098
 * https://medium.com/@ggiovani/tcp-socket-implementation-on-golang-c38b67c5d8b
