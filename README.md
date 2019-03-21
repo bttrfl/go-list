@@ -3,6 +3,7 @@
 * https://dave.cheney.net/practical-go/presentations/qcon-china.html
 * https://medium.com/statuscode/how-i-write-go-http-services-after-seven-years-37c208122831
 * https://habr.com/ru/company/badoo/blog/301990/
+* https://github.com/golang/go/wiki/SliceTricks
 
 ## Books
 
