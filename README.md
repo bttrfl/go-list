@@ -13,6 +13,7 @@
 * https://medium.com/@Martynas/formatting-date-and-time-in-golang-5816112bf098
 * https://medium.com/@ggiovani/tcp-socket-implementation-on-golang-c38b67c5d8b
 * https://www.akshaydeo.com/blog/2017/12/23/How-did-I-improve-latency-by-700-percent-using-syncPool/
+* https://github.com/golang/go/wiki/CompilerOptimizations
 
 ## Videos
 * [Golang UK Conference 2016 - Mat Ryer - Idiomatic Go Tricks](https://youtu.be/yeetIgNeIkc)
