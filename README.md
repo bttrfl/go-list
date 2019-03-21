@@ -42,6 +42,7 @@
 * https://github.com/dgryski/go-perfbook
 * https://github.com/golang/go/wiki/LearnConcurrency
 * https://gobyexample.com/
+* https://github.com/golang/go/wiki/Performance
 
 ## Other stuff
 * https://www.cs.cmu.edu/~crary/819-f09/Hoare78.pdf
