@@ -4,6 +4,8 @@
 * https://medium.com/statuscode/how-i-write-go-http-services-after-seven-years-37c208122831
 * https://habr.com/ru/company/badoo/blog/301990/
 * https://github.com/golang/go/wiki/SliceTricks
+* https://medium.com/@valyala/mmap-in-go-considered-harmful-d92a25cb161d
+* https://medium.freecodecamp.org/million-websockets-and-go-cc58418460bb
 
 ## Books
 
@@ -27,6 +29,7 @@
 * [GopherCon 2016: Rob Pike - The Design of the Go Assembler](https://youtu.be/KINIAgRpkDA)
 
 ## Benchmarks
+* https://omgnull.github.io/go-benchmark/buffer/
 
 ## Other wikis
 * https://github.com/dgryski/go-perfbook
@@ -40,3 +43,5 @@
 
 ## Other stuff
 * https://www.cs.cmu.edu/~crary/819-f09/Hoare78.pdf
+* https://groups.google.com/forum/#!msg/Golang-Nuts/ENgbUzYvCuU/90yGx7GUAgAJ
+* https://docs.google.com/document/d/1TTj4T2JO42uD5ID9e89oa0sLKhJYD0Y_kqxDv3I3XMw/edit
