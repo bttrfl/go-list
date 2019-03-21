@@ -6,8 +6,16 @@
 * https://github.com/golang/go/wiki/SliceTricks
 * https://medium.com/@valyala/mmap-in-go-considered-harmful-d92a25cb161d
 * https://medium.freecodecamp.org/million-websockets-and-go-cc58418460bb
+* https://morsmachine.dk/go-scheduler
+* https://morsmachine.dk/netpoller
+* http://dmitryvorobev.blogspot.com/2016/08/golang-channels-implementation.html
+* https://blog.golang.org/pipelines
+* https://medium.com/i0exception/runtime-overhead-of-using-defer-in-go-7140d5c40e32
+* https://medium.com/@Martynas/formatting-date-and-time-in-golang-5816112bf098
+* https://medium.com/@ggiovani/tcp-socket-implementation-on-golang-c38b67c5d8b
 
 ## Books
+* https://www.packtpub.com/networking-and-servers/mastering-go
 
 ## Videos
 * [Golang UK Conference 2016 - Mat Ryer - Idiomatic Go Tricks](https://youtu.be/yeetIgNeIkc)
@@ -30,10 +38,12 @@
 
 ## Benchmarks
 * https://omgnull.github.io/go-benchmark/buffer/
+* http://herman.asia/efficient-string-concatenation-in-go
 
 ## Other wikis
 * https://github.com/dgryski/go-perfbook
 * https://github.com/golang/go/wiki/LearnConcurrency
+* https://gobyexample.com/
 
 ## Docs
 * https://golang.org/doc/code.html
