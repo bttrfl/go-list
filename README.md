@@ -56,6 +56,7 @@
 * https://golang.org/doc/effective_go.html
 * https://golang.org/ref/spec
 * https://golang.org/ref/mem
+* https://golang.org/pkg/
 
 ## Books
 * https://www.packtpub.com/networking-and-servers/mastering-go
