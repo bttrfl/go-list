@@ -33,6 +33,7 @@
 * [Go Proverbs - Rob Pike - Gopherfest - November 18, 2015](https://youtu.be/PAAkCSZUG1c)
 * [Rob Pike - 'Concurrency Is Not Parallelism'](https://youtu.be/cN_DpYBzKso)
 * [GopherCon 2016: Rob Pike - The Design of the Go Assembler](https://youtu.be/KINIAgRpkDA)
+* [GopherCon 2018: Kat Zien - How Do You Structure Your Go Apps](https://youtu.be/oL6JBUk6tj0)
 
 ## Benchmarks
 * https://omgnull.github.io/go-benchmark/buffer/
