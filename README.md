@@ -13,9 +13,6 @@
 * https://medium.com/@Martynas/formatting-date-and-time-in-golang-5816112bf098
 * https://medium.com/@ggiovani/tcp-socket-implementation-on-golang-c38b67c5d8b
 
-## Books
-* https://www.packtpub.com/networking-and-servers/mastering-go
-
 ## Videos
 * [Golang UK Conference 2016 - Mat Ryer - Idiomatic Go Tricks](https://youtu.be/yeetIgNeIkc)
 * [Golang UK Conference 2017 | Arne Claus - Concurrency Patterns in Go](https://youtu.be/rDRa23k70CU)
@@ -44,13 +41,16 @@
 * https://github.com/golang/go/wiki/LearnConcurrency
 * https://gobyexample.com/
 
+## Other stuff
+* https://www.cs.cmu.edu/~crary/819-f09/Hoare78.pdf
+* https://groups.google.com/forum/#!msg/Golang-Nuts/ENgbUzYvCuU/90yGx7GUAgAJ
+* https://docs.google.com/document/d/1TTj4T2JO42uD5ID9e89oa0sLKhJYD0Y_kqxDv3I3XMw/edit
+
 ## Docs
 * https://golang.org/doc/code.html
 * https://golang.org/doc/effective_go.html
 * https://golang.org/ref/spec
 * https://golang.org/ref/mem
 
-## Other stuff
-* https://www.cs.cmu.edu/~crary/819-f09/Hoare78.pdf
-* https://groups.google.com/forum/#!msg/Golang-Nuts/ENgbUzYvCuU/90yGx7GUAgAJ
-* https://docs.google.com/document/d/1TTj4T2JO42uD5ID9e89oa0sLKhJYD0Y_kqxDv3I3XMw/edit
+## Books
+* https://www.packtpub.com/networking-and-servers/mastering-go
