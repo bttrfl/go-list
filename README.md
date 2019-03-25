@@ -1,5 +1,5 @@
 # go-list
-Just a list of useful go resources maintained mostly by myself for myself. But I believe that you'll find something interesting too!
+Just a list of useful go resources maintained mostly by myself for myself. But I believe that you'll find something interesting for you too!
 
 ## Articles
 * https://dave.cheney.net/practical-go/presentations/qcon-china.html
