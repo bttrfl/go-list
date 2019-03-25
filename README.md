@@ -1,4 +1,6 @@
 # go-list
+Just a list of useful go resources maintained mostly for myself by myself. But I hope that you'll find something interesting for yourself too!
+
 ## Articles
 * https://dave.cheney.net/practical-go/presentations/qcon-china.html
 * https://medium.com/statuscode/how-i-write-go-http-services-after-seven-years-37c208122831
