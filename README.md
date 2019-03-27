@@ -49,7 +49,7 @@ Just a list of useful go resources maintained mostly by myself for myself. But I
 * https://gobyexample.com/
 * https://github.com/golang/go/wiki/Performance *
 * https://github.com/teh-cmc/go-internals *
-* https://go101.org/article/101.html
+* https://go101.org/article/101.html *
 
 ## Other stuff
 * https://www.cs.cmu.edu/~crary/819-f09/Hoare78.pdf
