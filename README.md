@@ -33,7 +33,7 @@ Just a list of useful go resources maintained mostly by myself for myself. But I
 * [GopherCon 2018: Bryan C. Mills - Rethinking Classical Concurrency Patterns](https://youtu.be/5zXAHh5tJqQ)
 * [GopherCon 2018: Eben Freeman - Allocator Wrestling](https://youtu.be/M0HER1G5BRw)
 * [GopherCon 2017: Peter Bourgon - Evolutionary Optimization with Go](https://youtu.be/ha8gdZ27wMo) *
-* [7 common mistakes in Go and when to avoid them by Steve Francia (Docker)](https://youtu.be/29LLRKIL_TI) *
+* [7 common mistakes in Go and when to avoid them by Steve Francia (Docker)](https://youtu.be/29LLRKIL_TI)
 * [dotGo 2015 - Rob Pike - Simplicity is Complicated](https://youtu.be/rFejpH_tAHM)
 * [OSCON 2010: Rob Pike, "Public Static Void"](https://youtu.be/5kj5ApnhPAE)
 * [Go Proverbs - Rob Pike - Gopherfest - November 18, 2015](https://youtu.be/PAAkCSZUG1c)
