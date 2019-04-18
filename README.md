@@ -19,6 +19,7 @@ Just a list of useful go resources maintained mostly by myself for myself. But I
 * https://www.callicoder.com/golang-typed-untyped-constants/
 * https://blog.twitch.tv/go-memory-ballast-how-i-learnt-to-stop-worrying-and-love-the-heap-26c2462549a2
 * https://appliedgo.net/concurrencyslower/
+* https://www.alexedwards.net/blog/an-overview-of-go-tooling
 
 ## Videos
 * [Golang UK Conference 2016 - Mat Ryer - Idiomatic Go Tricks](https://youtu.be/yeetIgNeIkc)
