@@ -44,6 +44,16 @@ Just a list of useful go resources maintained mostly by myself for myself. But I
 ## Courses
 * [Программирование на Go Технострим Mail.Ru Group](https://www.youtube.com/watch?v=9Pk7xAT_aCU&list=PLrCZzMib1e9q-X5V9pTM6J0AemRWseM7I)
 
+## Docs
+* https://golang.org/doc/code.html
+* https://golang.org/doc/effective_go.html
+* https://golang.org/ref/spec
+* https://golang.org/ref/mem
+* https://golang.org/pkg/
+
+## Books
+* https://www.packtpub.com/networking-and-servers/mastering-go
+
 ## Benchmarks
 * https://omgnull.github.io/go-benchmark/buffer/
 * http://herman.asia/efficient-string-concatenation-in-go
@@ -60,13 +70,3 @@ Just a list of useful go resources maintained mostly by myself for myself. But I
 * https://www.cs.cmu.edu/~crary/819-f09/Hoare78.pdf
 * https://groups.google.com/forum/#!msg/Golang-Nuts/ENgbUzYvCuU/90yGx7GUAgAJ
 * https://docs.google.com/document/d/1TTj4T2JO42uD5ID9e89oa0sLKhJYD0Y_kqxDv3I3XMw/edit
-
-## Docs
-* https://golang.org/doc/code.html
-* https://golang.org/doc/effective_go.html
-* https://golang.org/ref/spec
-* https://golang.org/ref/mem
-* https://golang.org/pkg/
-
-## Books
-* https://www.packtpub.com/networking-and-servers/mastering-go
