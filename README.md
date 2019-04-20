@@ -22,6 +22,20 @@ Just a list of useful go resources maintained mostly by myself for myself. But I
 * [GopherCon 2018: Eben Freeman - Allocator Wrestling](https://youtu.be/M0HER1G5BRw)
 * [GopherCon 2017: Peter Bourgon - Evolutionary Optimization with Go](https://youtu.be/ha8gdZ27wMo) *
 * [Golang UK Conference 2016 - Travis Bischel - When Idioms Become Bottlenecks](https://youtu.be/q7s30kFHBdw) *
+## Go-nuts
+* https://morsmachine.dk/go-scheduler
+* https://morsmachine.dk/netpoller
+* http://dmitryvorobev.blogspot.com/2016/08/golang-channels-implementation.html *
+* https://medium.com/i0exception/runtime-overhead-of-using-defer-in-go-7140d5c40e32
+* https://medium.com/@ggiovani/tcp-socket-implementation-on-golang-c38b67c5d8b *
+* https://github.com/golang/go/wiki/CompilerOptimizations
+* https://golang.org/ref/mem
+* https://github.com/teh-cmc/go-internals *
+* https://groups.google.com/forum/#!msg/Golang-Nuts/ENgbUzYvCuU/90yGx7GUAgAJ
+* https://docs.google.com/document/d/1TTj4T2JO42uD5ID9e89oa0sLKhJYD0Y_kqxDv3I3XMw/edit
+* [Как устроен garbage collector в Go 1.9 - Андрей Дроздов, Avito](https://youtu.be/CX4GSErFenI)
+## Go tools
+* https://www.alexedwards.net/blog/an-overview-of-go-tooling
 ## Testing
 ## Benchmarking/Profiling
 * https://habr.com/ru/company/badoo/blog/301990/
@@ -35,18 +49,6 @@ Just a list of useful go resources maintained mostly by myself for myself. But I
 * [GopherCon 2018: Kat Zien - How Do You Structure Your Go Apps](https://youtu.be/oL6JBUk6tj0)
 * [7 common mistakes in Go and when to avoid them by Steve Francia (Docker)](https://youtu.be/29LLRKIL_TI)
 * [Golang UK Conference 2016 - Mat Ryer - Idiomatic Go Tricks](https://youtu.be/yeetIgNeIkc)
-## Go-nuts
-* https://morsmachine.dk/go-scheduler
-* https://morsmachine.dk/netpoller
-* http://dmitryvorobev.blogspot.com/2016/08/golang-channels-implementation.html *
-* https://medium.com/i0exception/runtime-overhead-of-using-defer-in-go-7140d5c40e32
-* https://medium.com/@ggiovani/tcp-socket-implementation-on-golang-c38b67c5d8b *
-* https://github.com/golang/go/wiki/CompilerOptimizations
-* https://golang.org/ref/mem
-* https://github.com/teh-cmc/go-internals *
-* https://groups.google.com/forum/#!msg/Golang-Nuts/ENgbUzYvCuU/90yGx7GUAgAJ
-* https://docs.google.com/document/d/1TTj4T2JO42uD5ID9e89oa0sLKhJYD0Y_kqxDv3I3XMw/edit
-* [Как устроен garbage collector в Go 1.9 - Андрей Дроздов, Avito](https://youtu.be/CX4GSErFenI)
 ## Tutorials/Guides/Tricks
 * https://github.com/golang/go/wiki/SliceTricks
 * https://medium.com/@Martynas/formatting-date-and-time-in-golang-5816112bf098
@@ -58,8 +60,6 @@ Just a list of useful go resources maintained mostly by myself for myself. But I
 * https://go101.org/article/101.html *
 * [GopherCon 2016: Francesc Campoy - Understanding nil](https://youtu.be/ynoY2xz-F8s)
 * [Golang UK Conference 2016 - Paul Crawford - A Beginners Guide to Context](https://youtu.be/r4Mlm6qEWRs) *
-## Go tools
-* https://www.alexedwards.net/blog/an-overview-of-go-tooling
 ## Courses
 * [Программирование на Go Технострим Mail.Ru Group](https://www.youtube.com/watch?v=9Pk7xAT_aCU&list=PLrCZzMib1e9q-X5V9pTM6J0AemRWseM7I)
 ## Books
