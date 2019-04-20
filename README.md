@@ -71,3 +71,12 @@ yet to come
 * [OSCON 2010: Rob Pike, "Public Static Void"](https://youtu.be/5kj5ApnhPAE)
 * [Go Proverbs - Rob Pike - Gopherfest - November 18, 2015](https://youtu.be/PAAkCSZUG1c)
 * [GopherCon 2016: Rob Pike - The Design of the Go Assembler](https://youtu.be/KINIAgRpkDA)
+## Awesome authors
+* [Dave Cheney](https://dave.cheney.net/)
+* [Dmitry Vyukov](http://www.1024cores.net/)
+## Awesome resources
+The resources listed here are the ones that I couldn't really fit in any category. They also may duplicate some mentioned above.
+* https://rakyll.org/archive/
+* https://golang.org/doc/
+* https://github.com/golang/go/wiki
+* https://www.reddit.com/r/golang/
