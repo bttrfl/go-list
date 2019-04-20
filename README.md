@@ -40,6 +40,7 @@ Just a list of useful go resources maintained mostly by myself for myself. But I
 * [Rob Pike - 'Concurrency Is Not Parallelism'](https://youtu.be/cN_DpYBzKso)
 * [GopherCon 2016: Rob Pike - The Design of the Go Assembler](https://youtu.be/KINIAgRpkDA)
 * [GopherCon 2018: Kat Zien - How Do You Structure Your Go Apps](https://youtu.be/oL6JBUk6tj0)
+* [GopherCon UK 2018: Roberto Clapis - Goroutines: The Dark Side of the Runtime](https://youtu.be/4CrL3Ygh7S0)
 
 ## Courses
 * [Программирование на Go Технострим Mail.Ru Group](https://www.youtube.com/watch?v=9Pk7xAT_aCU&list=PLrCZzMib1e9q-X5V9pTM6J0AemRWseM7I)
