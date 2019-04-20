@@ -1,5 +1,7 @@
 # go-list
-Just a list of useful go resources maintained mostly by myself for myself. But I believe you may also find something handy here!
+<p>Just a list of useful go resources maintained mostly by myself for myself. But I believe you may also find something handy here!</p>
+<p align="center"><img src="https://pbs.twimg.com/profile_images/717802216824840192/epO_pg3z.jpg" width="350px" alt="gopher with books"></img></p>
+
 ## Concurrency
 * https://github.com/golang/go/wiki/LearnConcurrency
 * [GopherCon UK 2018: Roberto Clapis - Goroutines: The Dark Side of the Runtime](https://youtu.be/4CrL3Ygh7S0)
