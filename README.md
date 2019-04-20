@@ -37,6 +37,7 @@ Just a list of useful go resources maintained mostly by myself for myself. But I
 ## Go tools
 * https://www.alexedwards.net/blog/an-overview-of-go-tooling
 ## Testing
+yet to come
 ## Benchmarking/Profiling
 * https://habr.com/ru/company/badoo/blog/301990/
 * https://scene-si.org/2017/06/06/benchmarking-go-programs/
