@@ -52,21 +52,19 @@ yet to come
 * [GopherCon 2018: Kat Zien - How Do You Structure Your Go Apps](https://youtu.be/oL6JBUk6tj0)
 * [7 common mistakes in Go and when to avoid them by Steve Francia (Docker)](https://youtu.be/29LLRKIL_TI)
 * [Golang UK Conference 2016 - Mat Ryer - Idiomatic Go Tricks](https://youtu.be/yeetIgNeIkc)
-## Tutorials/Guides/Tricks
-* https://github.com/golang/go/wiki/SliceTricks
-* https://medium.com/@Martynas/formatting-date-and-time-in-golang-5816112bf098
-* https://gobyexample.com/
 ## Language details
 * https://www.callicoder.com/golang-typed-untyped-constants/
 * https://golang.org/ref/spec
 * https://golang.org/pkg/
-* https://go101.org/article/101.html *
+* https://github.com/golang/go/wiki/SliceTricks
+* https://medium.com/@Martynas/formatting-date-and-time-in-golang-5816112bf098
 * [GopherCon 2016: Francesc Campoy - Understanding nil](https://youtu.be/ynoY2xz-F8s)
 * [Golang UK Conference 2016 - Paul Crawford - A Beginners Guide to Context](https://youtu.be/r4Mlm6qEWRs) *
 ## Courses
 * [Программирование на Go Технострим Mail.Ru Group](https://www.youtube.com/watch?v=9Pk7xAT_aCU&list=PLrCZzMib1e9q-X5V9pTM6J0AemRWseM7I)
 ## Books
 * https://www.packtpub.com/networking-and-servers/mastering-go
+* https://go101.org/article/101.html *
 ## Go philosophy 
 * https://www.cs.cmu.edu/~crary/819-f09/Hoare78.pdf
 * [dotGo 2015 - Rob Pike - Simplicity is Complicated](https://youtu.be/rFejpH_tAHM)
@@ -82,3 +80,4 @@ The resources listed here are the ones that I couldn't really fit in any categor
 * https://golang.org/doc/
 * https://github.com/golang/go/wiki
 * https://www.reddit.com/r/golang/
+* https://gobyexample.com/
