@@ -19,6 +19,7 @@
 * http://herman.asia/efficient-string-concatenation-in-go
 * https://github.com/dgryski/go-perfbook *
 * https://github.com/golang/go/wiki/Performance *
+* https://adrummond.net/posts/gogenerics
 * [Работа с сетью в Go. Алексей Акулович, Вконтакте.](https://youtu.be/p1ILhiq5Clw)
 * [Golang UK Conference 2017 | Guido Patanella - Go routines optimization](https://youtu.be/yo-CkroaQhs)
 * [GopherCon 2018: Eben Freeman - Allocator Wrestling](https://youtu.be/M0HER1G5BRw)
@@ -49,6 +50,7 @@ yet to come
 * https://github.com/golang/go/wiki/CodeReviewComments
 * https://golang.org/doc/code.html
 * https://golang.org/doc/effective_go.html
+* https://github.com/tmrts/go-patterns *
 * [GopherCon 2018: Kat Zien - How Do You Structure Your Go Apps](https://youtu.be/oL6JBUk6tj0)
 * [7 common mistakes in Go and when to avoid them by Steve Francia (Docker)](https://youtu.be/29LLRKIL_TI)
 * [Golang UK Conference 2016 - Mat Ryer - Idiomatic Go Tricks](https://youtu.be/yeetIgNeIkc)
