@@ -50,7 +50,6 @@ yet to come
 * https://github.com/golang/go/wiki/CodeReviewComments
 * https://golang.org/doc/code.html
 * https://golang.org/doc/effective_go.html
-* https://github.com/tmrts/go-patterns *
 * [GopherCon 2018: Kat Zien - How Do You Structure Your Go Apps](https://youtu.be/oL6JBUk6tj0)
 * [7 common mistakes in Go and when to avoid them by Steve Francia (Docker)](https://youtu.be/29LLRKIL_TI)
 * [Golang UK Conference 2016 - Mat Ryer - Idiomatic Go Tricks](https://youtu.be/yeetIgNeIkc)
@@ -83,3 +82,4 @@ The resources listed here are the ones that I couldn't really fit in any categor
 * https://github.com/golang/go/wiki
 * https://www.reddit.com/r/golang/
 * https://gobyexample.com/
+* https://github.com/tmrts/go-patterns *
