@@ -44,6 +44,7 @@ yet to come
 ## Benchmarking/Profiling
 * https://habr.com/ru/company/badoo/blog/301990/
 * https://scene-si.org/2017/06/06/benchmarking-go-programs/
+* https://medium.com/@fzambia/bisecting-go-performance-degradation-4d4a7ee83a63
 ## Code style/Organization
 * https://dave.cheney.net/practical-go/presentations/qcon-china.html
 * https://medium.com/statuscode/how-i-write-go-http-services-after-seven-years-37c208122831
