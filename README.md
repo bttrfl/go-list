@@ -40,7 +40,7 @@
 ## Go tools
 * https://www.alexedwards.net/blog/an-overview-of-go-tooling
 ## Testing
-yet to come
+* [LondonGophers 20/03/2019: Dave Cheney - Absolute Unit (Test)](https://youtu.be/UKe5sX1dZ0k)
 ## Benchmarking/Profiling
 * https://habr.com/ru/company/badoo/blog/301990/
 * https://scene-si.org/2017/06/06/benchmarking-go-programs/
