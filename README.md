@@ -25,6 +25,7 @@
 * [GopherCon 2018: Eben Freeman - Allocator Wrestling](https://youtu.be/M0HER1G5BRw)
 * [GopherCon 2017: Peter Bourgon - Evolutionary Optimization with Go](https://youtu.be/ha8gdZ27wMo) *
 * [Golang UK Conference 2016 - Travis Bischel - When Idioms Become Bottlenecks](https://youtu.be/q7s30kFHBdw) *
+* [dotGo 2019 - Daniel Martí - Optimizing Go code without a blindfold](https://youtu.be/jiXnzkAzy30)
 ## Go-nuts
 * https://morsmachine.dk/go-scheduler
 * https://morsmachine.dk/netpoller
