@@ -69,7 +69,6 @@
 ## Books
 * https://www.packtpub.com/networking-and-servers/mastering-go
 * https://go101.org/article/101.html *
-* https://github.com/dariubs/GoBooks
 ## Go philosophy 
 * https://www.cs.cmu.edu/~crary/819-f09/Hoare78.pdf
 * [dotGo 2015 - Rob Pike - Simplicity is Complicated](https://youtu.be/rFejpH_tAHM)
@@ -87,3 +86,4 @@ The resources listed here are the ones that I couldn't really fit in any categor
 * https://www.reddit.com/r/golang/
 * https://gobyexample.com/
 * https://github.com/tmrts/go-patterns *
+* https://github.com/dariubs/GoBooks
