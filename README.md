@@ -24,7 +24,7 @@
 * [Golang UK Conference 2017 | Guido Patanella - Go routines optimization](https://youtu.be/yo-CkroaQhs)
 * [GopherCon 2018: Eben Freeman - Allocator Wrestling](https://youtu.be/M0HER1G5BRw)
 * [GopherCon 2017: Peter Bourgon - Evolutionary Optimization with Go](https://youtu.be/ha8gdZ27wMo) *
-* [Golang UK Conference 2016 - Travis Bischel - When Idioms Become Bottlenecks](https://youtu.be/q7s30kFHBdw) *
+* [Golang UK Conference 2016 - Travis Bischel - When Idioms Become Bottlenecks](https://youtu.be/q7s30kFHBdw)
 * [dotGo 2019 - Daniel Martí - Optimizing Go code without a blindfold](https://youtu.be/jiXnzkAzy30)
 ## Go-nuts
 * https://morsmachine.dk/go-scheduler
@@ -64,7 +64,7 @@
 * https://github.com/golang/go/wiki/SliceTricks
 * https://medium.com/@Martynas/formatting-date-and-time-in-golang-5816112bf098
 * [GopherCon 2016: Francesc Campoy - Understanding nil](https://youtu.be/ynoY2xz-F8s)
-* [Golang UK Conference 2016 - Paul Crawford - A Beginners Guide to Context](https://youtu.be/r4Mlm6qEWRs) *
+* [Golang UK Conference 2016 - Paul Crawford - A Beginners Guide to Context](https://youtu.be/r4Mlm6qEWRs)
 ## Courses
 * [Программирование на Go Технострим Mail.Ru Group](https://www.youtube.com/watch?v=9Pk7xAT_aCU&list=PLrCZzMib1e9q-X5V9pTM6J0AemRWseM7I)
 ## Books
