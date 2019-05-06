@@ -90,3 +90,4 @@ The resources listed here are the ones that I couldn't really fit in any categor
 * https://gobyexample.com/
 * https://github.com/tmrts/go-patterns *
 * https://github.com/dariubs/GoBooks
+* http://www.go-gazette.com/
