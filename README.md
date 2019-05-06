@@ -55,6 +55,7 @@
 * https://golang.org/doc/effective_go.html
 * https://peter.bourgon.org/blog/2019/04/24/go-naming-tips.html
 * https://blog.golang.org/using-go-modules
+* https://medium.com/@mustafaturan/decoupled-package-communication-in-go-6c60085ed25b?sk=62b4e7bc4f25ebf0421b64307c6642e8
 * [dotGo 2019 - Dave Cheney - Constant Time](https://youtu.be/pN_lm6QqHcw)
 * [GopherCon 2018: Kat Zien - How Do You Structure Your Go Apps](https://youtu.be/oL6JBUk6tj0)
 * [7 common mistakes in Go and when to avoid them by Steve Francia (Docker)](https://youtu.be/29LLRKIL_TI)
