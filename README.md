@@ -92,6 +92,13 @@ The resources listed here are the ones that I couldn't really fit in any categor
 * https://github.com/tmrts/go-patterns *
 * https://github.com/dariubs/GoBooks
 * http://www.go-gazette.com/
+## Conference YouTube channels/playists
+* [Gopher Academy](https://www.youtube.com/channel/UCx9QVEApa5BKLw9r8cnOFEA)
+* [GopherCon Russia](https://www.youtube.com/channel/UCq-OB01F8YnS-FJpeJRCvMQ)
+* [GopherCon UK](https://www.youtube.com/channel/UC9ZNrGdT2aAdrNbX78lbNlQ)
+* [London Gophers](https://www.youtube.com/channel/UCZPhOgp4kDXkg2W8jL4U7GA)
+* [Sigapore Gophers](https://www.youtube.com/channel/UCazkIMpjghmT8fugD1WF_DQ)
+* [Go Conferences | Golang | Gophercon playlist](https://www.youtube.com/playlist?list=PLuKvd2GQmvCATHrdPfWwESh6o8AI4GTpj)
 ## Unread
 * https://medium.com/@hackintoshrao/daily-code-optimization-using-benchmarks-and-profiling-in-golang-gophercon-india-2016-talk-874c8b4dc3c5
 * https://jvns.ca/blog/2017/09/24/profiling-go-with-pprof/
