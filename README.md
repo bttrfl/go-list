@@ -134,3 +134,4 @@ The resources listed here are the ones that I couldn't really fit in any categor
 * https://dave.cheney.net/paste/clear-is-better-than-clever.pdf
 * https://dave.cheney.net/2019/05/07/prefer-table-driven-tests
 * https://medium.com/yakka/better-go-error-handling-with-xerrors-1987650e0c79
+* https://medium.com/rungo/unit-testing-made-easy-in-go-25077669318
