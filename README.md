@@ -135,3 +135,6 @@ The resources listed here are the ones that I couldn't really fit in any categor
 * https://dave.cheney.net/2019/05/07/prefer-table-driven-tests
 * https://medium.com/yakka/better-go-error-handling-with-xerrors-1987650e0c79
 * https://medium.com/rungo/unit-testing-made-easy-in-go-25077669318
+* https://www.youtube.com/watch?v=ZJFMvWHtSAA
+* https://www.youtube.com/watch?v=uyifh6F_7WM
+* https://www.ardanlabs.com/blog/2019/05/garbage-collection-in-go-part2-gctraces.html
