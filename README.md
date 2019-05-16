@@ -141,3 +141,4 @@ The resources listed here are the ones that I couldn't really fit in any categor
 * https://medium.com/@blanchon.vincent/go-should-i-use-a-pointer-instead-of-a-copy-of-my-struct-44b43b104963
 * https://golang.works-hub.com/learn/rest-api-error-handling-in-go-behavioural-type-assertion-b13f8
 * https://itnext.io/learning-go-mongodb-crud-with-grpc-98e425aeaae6
+* https://www.ardanlabs.com/blog/2015/09/composition-with-go.html
