@@ -143,3 +143,4 @@ The resources listed here are the ones that I couldn't really fit in any categor
 * https://itnext.io/learning-go-mongodb-crud-with-grpc-98e425aeaae6
 * https://www.ardanlabs.com/blog/2015/09/composition-with-go.html
 * https://blog.acolyer.org/2019/05/17/understanding-real-world-concurrency-bugs-in-go/
+* https://deliveroo.engineering/2019/05/17/testing-go-services-using-interfaces.html
