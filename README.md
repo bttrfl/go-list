@@ -42,6 +42,7 @@
 ## Go tools
 * https://www.alexedwards.net/blog/an-overview-of-go-tooling
 ## Testing
+* https://dave.cheney.net/2019/05/07/prefer-table-driven-tests
 * [LondonGophers 20/03/2019: Dave Cheney - Absolute Unit (Test)](https://youtu.be/UKe5sX1dZ0k)
 ## Benchmarking/Profiling
 * https://habr.com/ru/company/badoo/blog/301990/
@@ -132,7 +133,6 @@ The resources listed here are the ones that I couldn't really fit in any categor
 * https://medium.com/rungo/interfaces-in-go-ab1601159b3a
 * https://medium.com/@the.cody.oss/reflecting-on-worker-pools-in-go-7f91f05a5f01
 * https://dave.cheney.net/paste/clear-is-better-than-clever.pdf
-* https://dave.cheney.net/2019/05/07/prefer-table-driven-tests
 * https://medium.com/yakka/better-go-error-handling-with-xerrors-1987650e0c79
 * https://medium.com/rungo/unit-testing-made-easy-in-go-25077669318
 * https://www.youtube.com/watch?v=ZJFMvWHtSAA
