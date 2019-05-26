@@ -144,3 +144,7 @@ The resources listed here are the ones that I couldn't really fit in any categor
 * https://www.ardanlabs.com/blog/2015/09/composition-with-go.html
 * https://blog.acolyer.org/2019/05/17/understanding-real-world-concurrency-bugs-in-go/
 * https://deliveroo.engineering/2019/05/17/testing-go-services-using-interfaces.html
+* https://medium.com/dm03514-tech-blog/golang-monitors-and-mutexes-a-light-survey-84f04f9b7c09
+* https://segment.com/blog/5-advanced-testing-techniques-in-go/
+* https://medium.com/vendasta/golang-pointer-receivers-and-error-pointer-returns-421b5b21a020
+* https://pingcap.com/blog/design-and-implementation-of-golang-failpoints/
