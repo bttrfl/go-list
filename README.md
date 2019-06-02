@@ -148,3 +148,5 @@ The resources listed here are the ones that I couldn't really fit in any categor
 * https://segment.com/blog/5-advanced-testing-techniques-in-go/
 * https://medium.com/vendasta/golang-pointer-receivers-and-error-pointer-returns-421b5b21a020
 * https://pingcap.com/blog/design-and-implementation-of-golang-failpoints/
+* https://medium.com/@blanchon.vincent/go-how-does-the-goroutine-stack-size-evolve-447fc02085e5'
+* https://povilasv.me/go-memory-management/
