@@ -20,6 +20,7 @@
 * https://github.com/dgryski/go-perfbook *
 * https://github.com/golang/go/wiki/Performance *
 * https://adrummond.net/posts/gogenerics
+* https://github.com/jeromefroe/golang_benchmarks
 * [Работа с сетью в Go. Алексей Акулович, Вконтакте.](https://youtu.be/p1ILhiq5Clw)
 * [Golang UK Conference 2017 | Guido Patanella - Go routines optimization](https://youtu.be/yo-CkroaQhs)
 * [GopherCon 2018: Eben Freeman - Allocator Wrestling](https://youtu.be/M0HER1G5BRw)
