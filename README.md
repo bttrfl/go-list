@@ -151,3 +151,5 @@ The resources listed here are the ones that I couldn't really fit in any categor
 * https://pingcap.com/blog/design-and-implementation-of-golang-failpoints/
 * https://medium.com/@blanchon.vincent/go-how-does-the-goroutine-stack-size-evolve-447fc02085e5'
 * https://povilasv.me/go-memory-management/
+* https://www.ardanlabs.com/blog/2018/08/scheduling-in-go-part1.html
+* https://www.joeshaw.org/dont-defer-close-on-writable-files/
