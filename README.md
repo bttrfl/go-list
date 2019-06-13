@@ -68,6 +68,7 @@
 * https://golang.org/pkg/
 * https://github.com/golang/go/wiki/SliceTricks
 * https://medium.com/@Martynas/formatting-date-and-time-in-golang-5816112bf098
+* https://medium.com/@blanchon.vincent/go-what-is-the-unsafe-package-d2443da36350
 * [GopherCon 2016: Francesc Campoy - Understanding nil](https://youtu.be/ynoY2xz-F8s)
 * [Golang UK Conference 2016 - Paul Crawford - A Beginners Guide to Context](https://youtu.be/r4Mlm6qEWRs)
 ## Courses
