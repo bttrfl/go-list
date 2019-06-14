@@ -157,3 +157,5 @@ The resources listed here are the ones that I couldn't really fit in any categor
 * http://morsmachine.dk/http2-causalprof
 * https://www.perimeterx.com/blog/ok-lets-go/#
 * https://turtledev.in/posts/go-concurrency-patterns-double-checked-locking/
+* https://dev.to/eminetto/object-calisthenics-in-golang-1h75
+* https://blog.ankuranand.com/2019/02/20/a-visual-guide-to-golang-memory-allocator-from-ground-up/
