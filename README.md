@@ -159,3 +159,9 @@ The resources listed here are the ones that I couldn't really fit in any categor
 * https://turtledev.in/posts/go-concurrency-patterns-double-checked-locking/
 * https://dev.to/eminetto/object-calisthenics-in-golang-1h75
 * https://blog.ankuranand.com/2019/02/20/a-visual-guide-to-golang-memory-allocator-from-ground-up/
+* https://stephen.sh/posts/quick-go-performance-improvements
+* https://github.com/Pungyeon/clean-go
+* https://github.com/Pungyeon/clean-go-article
+* https://medium.com/@blanchon.vincent/go-how-does-defer-statement-work-1a9492689b6e
+* https://morsmachine.dk/http2-causalprof
+* https://medium.com/rungo/everything-you-need-to-know-about-packages-in-go-b8bac62b74cc
