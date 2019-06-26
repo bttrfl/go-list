@@ -39,6 +39,7 @@
 * https://github.com/teh-cmc/go-internals *
 * https://groups.google.com/forum/#!msg/Golang-Nuts/ENgbUzYvCuU/90yGx7GUAgAJ
 * https://docs.google.com/document/d/1TTj4T2JO42uD5ID9e89oa0sLKhJYD0Y_kqxDv3I3XMw/edit
+* https://itnext.io/manipulating-private-fields-in-go-4da4ca525717
 * [Как устроен garbage collector в Go 1.9 - Андрей Дроздов, Avito](https://youtu.be/CX4GSErFenI)
 ## Go tools
 * https://www.alexedwards.net/blog/an-overview-of-go-tooling
@@ -95,6 +96,7 @@ The resources listed here are the ones that I couldn't really fit in any categor
 * https://github.com/tmrts/go-patterns *
 * https://github.com/dariubs/GoBooks
 * http://www.go-gazette.com/
+* https://github.com/quii/learn-go-with-tests
 ## Conference YouTube channels/playists
 * [Gopher Academy](https://www.youtube.com/channel/UCx9QVEApa5BKLw9r8cnOFEA)
 * [GopherCon Russia](https://www.youtube.com/channel/UCq-OB01F8YnS-FJpeJRCvMQ)
