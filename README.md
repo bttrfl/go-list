@@ -167,3 +167,12 @@ The resources listed here are the ones that I couldn't really fit in any categor
 * https://medium.com/@blanchon.vincent/go-how-does-defer-statement-work-1a9492689b6e
 * https://morsmachine.dk/http2-causalprof
 * https://medium.com/rungo/everything-you-need-to-know-about-packages-in-go-b8bac62b74cc
+* https://blog.ankuranand.com/2018/09/29/diving-deep-into-the-golang-channels/
+* https://medium.com/@cep21/gos-wrapped-return-pattern-to-clean-up-objects-with-background-goroutines-b3454846a0d
+* https://itnext.io/the-top-10-most-common-mistakes-ive-seen-in-go-projects-4b79d4f6cd65
+* https://yourbasic.org/golang/recover-from-panic/
+* https://medium.com/@blanchon.vincent/go-buffered-and-unbuffered-channels-29a107c00268
+* https://ieftimov.com/post/testing-in-go-table-driven-tests/
+* https://eli.thegreenplace.net/2019/passing-callbacks-and-pointers-to-cgo/
+* https://www.bugsnag.com/blog/microservice-developer-tools-for-gophers
+* https://dave.cheney.net/2019/07/09/clear-is-better-than-clever
