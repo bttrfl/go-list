@@ -86,6 +86,7 @@
 ## Awesome authors
 * [Dave Cheney](https://dave.cheney.net/)
 * [Dmitry Vyukov](http://www.1024cores.net/)
+* [Vincent Blanchon](https://medium.com/@blanchon.vincent)
 ## Awesome resources
 The resources listed here are the ones that I couldn't really fit in any category. They also may duplicate some mentioned above.
 * https://rakyll.org/archive/
@@ -176,3 +177,8 @@ The resources listed here are the ones that I couldn't really fit in any categor
 * https://eli.thegreenplace.net/2019/passing-callbacks-and-pointers-to-cgo/
 * https://www.bugsnag.com/blog/microservice-developer-tools-for-gophers
 * https://dave.cheney.net/2019/07/09/clear-is-better-than-clever
+* https://dave.cheney.net/high-performance-go-workshop/gophercon-2019.html
+* https://medium.com/@blanchon.vincent/go-vet-command-is-more-powerful-than-you-think-563e9fdec2f5
+* https://medium.com/@blanchon.vincent/go-finalizers-786df8e17687
+* https://doordash.engineering/2019/07/22/writing-delightful-http-middlewares-in-go/
+* https://engineering.mixpanel.com/2019/07/24/safely-rewriting-mixpanels-highest-throughput-service-in-golang/
