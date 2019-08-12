@@ -59,6 +59,7 @@
 * https://peter.bourgon.org/blog/2019/04/24/go-naming-tips.html
 * https://blog.golang.org/using-go-modules
 * https://medium.com/@mustafaturan/decoupled-package-communication-in-go-6c60085ed25b
+* https://dave.cheney.net/2019/07/09/clear-is-better-than-clever
 * [dotGo 2019 - Dave Cheney - Constant Time](https://youtu.be/pN_lm6QqHcw)
 * [GopherCon 2018: Kat Zien - How Do You Structure Your Go Apps](https://youtu.be/oL6JBUk6tj0)
 * [7 common mistakes in Go and when to avoid them by Steve Francia (Docker)](https://youtu.be/29LLRKIL_TI)
@@ -176,7 +177,6 @@ The resources listed here are the ones that I couldn't really fit in any categor
 * https://ieftimov.com/post/testing-in-go-table-driven-tests/
 * https://eli.thegreenplace.net/2019/passing-callbacks-and-pointers-to-cgo/
 * https://www.bugsnag.com/blog/microservice-developer-tools-for-gophers
-* https://dave.cheney.net/2019/07/09/clear-is-better-than-clever
 * https://dave.cheney.net/high-performance-go-workshop/gophercon-2019.html
 * https://medium.com/@blanchon.vincent/go-vet-command-is-more-powerful-than-you-think-563e9fdec2f5
 * https://medium.com/@blanchon.vincent/go-finalizers-786df8e17687
