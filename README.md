@@ -21,6 +21,7 @@
 * https://github.com/golang/go/wiki/Performance *
 * https://adrummond.net/posts/gogenerics
 * https://github.com/jeromefroe/golang_benchmarks
+* https://medium.com/@blanchon.vincent/go-should-i-use-a-pointer-instead-of-a-copy-of-my-struct-44b43b104963
 * [Работа с сетью в Go. Алексей Акулович, Вконтакте.](https://youtu.be/p1ILhiq5Clw)
 * [Golang UK Conference 2017 | Guido Patanella - Go routines optimization](https://youtu.be/yo-CkroaQhs)
 * [GopherCon 2018: Eben Freeman - Allocator Wrestling](https://youtu.be/M0HER1G5BRw)
@@ -40,6 +41,9 @@
 * https://groups.google.com/forum/#!msg/Golang-Nuts/ENgbUzYvCuU/90yGx7GUAgAJ
 * https://docs.google.com/document/d/1TTj4T2JO42uD5ID9e89oa0sLKhJYD0Y_kqxDv3I3XMw/edit
 * https://itnext.io/manipulating-private-fields-in-go-4da4ca525717
+* https://medium.com/@blanchon.vincent/go-buffered-and-unbuffered-channels-29a107c00268
+* https://medium.com/@blanchon.vincent/go-how-does-the-goroutine-stack-size-evolve-447fc02085e5
+* https://medium.com/@blanchon.vincent/go-how-does-defer-statement-work-1a9492689b6e
 * [Как устроен garbage collector в Go 1.9 - Андрей Дроздов, Avito](https://youtu.be/CX4GSErFenI)
 ## Go tools
 * https://www.alexedwards.net/blog/an-overview-of-go-tooling
@@ -144,7 +148,6 @@ The resources listed here are the ones that I couldn't really fit in any categor
 * https://www.youtube.com/watch?v=ZJFMvWHtSAA
 * https://www.youtube.com/watch?v=uyifh6F_7WM
 * https://www.ardanlabs.com/blog/2019/05/garbage-collection-in-go-part2-gctraces.html
-* https://medium.com/@blanchon.vincent/go-should-i-use-a-pointer-instead-of-a-copy-of-my-struct-44b43b104963
 * https://golang.works-hub.com/learn/rest-api-error-handling-in-go-behavioural-type-assertion-b13f8
 * https://itnext.io/learning-go-mongodb-crud-with-grpc-98e425aeaae6
 * https://www.ardanlabs.com/blog/2015/09/composition-with-go.html
@@ -154,7 +157,6 @@ The resources listed here are the ones that I couldn't really fit in any categor
 * https://segment.com/blog/5-advanced-testing-techniques-in-go/
 * https://medium.com/vendasta/golang-pointer-receivers-and-error-pointer-returns-421b5b21a020
 * https://pingcap.com/blog/design-and-implementation-of-golang-failpoints/
-* https://medium.com/@blanchon.vincent/go-how-does-the-goroutine-stack-size-evolve-447fc02085e5'
 * https://povilasv.me/go-memory-management/
 * https://www.ardanlabs.com/blog/2018/08/scheduling-in-go-part1.html
 * https://www.joeshaw.org/dont-defer-close-on-writable-files/
@@ -166,14 +168,12 @@ The resources listed here are the ones that I couldn't really fit in any categor
 * https://stephen.sh/posts/quick-go-performance-improvements
 * https://github.com/Pungyeon/clean-go
 * https://github.com/Pungyeon/clean-go-article
-* https://medium.com/@blanchon.vincent/go-how-does-defer-statement-work-1a9492689b6e
 * https://morsmachine.dk/http2-causalprof
 * https://medium.com/rungo/everything-you-need-to-know-about-packages-in-go-b8bac62b74cc
 * https://blog.ankuranand.com/2018/09/29/diving-deep-into-the-golang-channels/
 * https://medium.com/@cep21/gos-wrapped-return-pattern-to-clean-up-objects-with-background-goroutines-b3454846a0d
 * https://itnext.io/the-top-10-most-common-mistakes-ive-seen-in-go-projects-4b79d4f6cd65
 * https://yourbasic.org/golang/recover-from-panic/
-* https://medium.com/@blanchon.vincent/go-buffered-and-unbuffered-channels-29a107c00268
 * https://ieftimov.com/post/testing-in-go-table-driven-tests/
 * https://eli.thegreenplace.net/2019/passing-callbacks-and-pointers-to-cgo/
 * https://www.bugsnag.com/blog/microservice-developer-tools-for-gophers
@@ -182,3 +182,4 @@ The resources listed here are the ones that I couldn't really fit in any categor
 * https://medium.com/@blanchon.vincent/go-finalizers-786df8e17687
 * https://doordash.engineering/2019/07/22/writing-delightful-http-middlewares-in-go/
 * https://engineering.mixpanel.com/2019/07/24/safely-rewriting-mixpanels-highest-throughput-service-in-golang/
+* https://www.ardanlabs.com/blog/2017/05/language-mechanics-on-stacks-and-pointers.html
