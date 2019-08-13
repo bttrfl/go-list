@@ -47,6 +47,8 @@
 * [Как устроен garbage collector в Go 1.9 - Андрей Дроздов, Avito](https://youtu.be/CX4GSErFenI)
 ## Go tools
 * https://www.alexedwards.net/blog/an-overview-of-go-tooling
+* https://medium.com/@blanchon.vincent/go-vet-command-is-more-powerful-than-you-think-563e9fdec2f5
+* https://blog.golang.org/using-go-modules
 ## Testing
 * https://dave.cheney.net/2019/05/07/prefer-table-driven-tests
 * [LondonGophers 20/03/2019: Dave Cheney - Absolute Unit (Test)](https://youtu.be/UKe5sX1dZ0k)
@@ -64,6 +66,7 @@
 * https://blog.golang.org/using-go-modules
 * https://medium.com/@mustafaturan/decoupled-package-communication-in-go-6c60085ed25b
 * https://dave.cheney.net/2019/07/09/clear-is-better-than-clever
+* https://github.com/golang-standards/project-layout
 * [dotGo 2019 - Dave Cheney - Constant Time](https://youtu.be/pN_lm6QqHcw)
 * [GopherCon 2018: Kat Zien - How Do You Structure Your Go Apps](https://youtu.be/oL6JBUk6tj0)
 * [7 common mistakes in Go and when to avoid them by Steve Francia (Docker)](https://youtu.be/29LLRKIL_TI)
@@ -75,6 +78,8 @@
 * https://github.com/golang/go/wiki/SliceTricks
 * https://medium.com/@Martynas/formatting-date-and-time-in-golang-5816112bf098
 * https://medium.com/@blanchon.vincent/go-what-is-the-unsafe-package-d2443da36350
+* https://medium.com/@blanchon.vincent/go-context-and-cancellation-by-propagation-7a808bbc889c
+* https://medium.com/@blanchon.vincent/go-finalizers-786df8e17687
 * [GopherCon 2016: Francesc Campoy - Understanding nil](https://youtu.be/ynoY2xz-F8s)
 * [Golang UK Conference 2016 - Paul Crawford - A Beginners Guide to Context](https://youtu.be/r4Mlm6qEWRs)
 ## Courses
@@ -110,12 +115,14 @@ The resources listed here are the ones that I couldn't really fit in any categor
 * [London Gophers](https://www.youtube.com/channel/UCZPhOgp4kDXkg2W8jL4U7GA)
 * [Sigapore Gophers](https://www.youtube.com/channel/UCazkIMpjghmT8fugD1WF_DQ)
 * [Go Conferences | Golang | Gophercon playlist](https://www.youtube.com/playlist?list=PLuKvd2GQmvCATHrdPfWwESh6o8AI4GTpj)
+## Other
+* https://spacetime.dev/to-slice-or-not-to-slice
+* https://www.joeshaw.org/dont-defer-close-on-writable-files/
 ## Unread
 * https://medium.com/@hackintoshrao/daily-code-optimization-using-benchmarks-and-profiling-in-golang-gophercon-india-2016-talk-874c8b4dc3c5
 * https://jvns.ca/blog/2017/09/24/profiling-go-with-pprof/
 * https://artem.krylysov.com/blog/2017/03/13/profiling-and-optimizing-go-web-applications/
 * https://github.com/go-modules-by-example/index/tree/master/018_go_list_mod_graph_why
-* https://github.com/golang-standards/project-layout
 * https://medium.com/@benbjohnson/structuring-applications-in-go-3b04be4ff091
 * https://talks.golang.org/2014/organizeio.slide#1
 * https://vsupalov.com/go-folder-structure/
@@ -128,7 +135,6 @@ The resources listed here are the ones that I couldn't really fit in any categor
 * https://golangbot.com/custom-errors/
 * https://medium.com/golangspec/methods-in-go-part-i-a4e575dff860
 * https://medium.com/golangspec/interfaces-in-go-part-i-4ae53a97479c
-* https://blog.golang.org/using-go-modules
 * https://blog.minio.io/search?q=golang%20internals
 * https://itnext.io/diving-into-golang-channels-e9e610d586e8
 * https://peter.bourgon.org/go-best-practices-2016/ 
@@ -138,11 +144,9 @@ The resources listed here are the ones that I couldn't really fit in any categor
 * https://medium.com/@owlwalks/how-would-you-organize-your-goroutine-and-channel-p1-e6e3c698f90c
 * https://medium.com/@povilasve/go-advanced-tips-tricks-a872503ac859
 * https://www.ardanlabs.com/blog/2018/12/garbage-collection-in-go-part1-semantics.html
-* https://spacetime.dev/to-slice-or-not-to-slice
 * https://segment.com/blog/allocation-efficiency-in-high-performance-go-services/
 * https://medium.com/rungo/interfaces-in-go-ab1601159b3a
 * https://medium.com/@the.cody.oss/reflecting-on-worker-pools-in-go-7f91f05a5f01
-* https://dave.cheney.net/paste/clear-is-better-than-clever.pdf
 * https://medium.com/yakka/better-go-error-handling-with-xerrors-1987650e0c79
 * https://medium.com/rungo/unit-testing-made-easy-in-go-25077669318
 * https://www.youtube.com/watch?v=ZJFMvWHtSAA
@@ -159,7 +163,6 @@ The resources listed here are the ones that I couldn't really fit in any categor
 * https://pingcap.com/blog/design-and-implementation-of-golang-failpoints/
 * https://povilasv.me/go-memory-management/
 * https://www.ardanlabs.com/blog/2018/08/scheduling-in-go-part1.html
-* https://www.joeshaw.org/dont-defer-close-on-writable-files/
 * http://morsmachine.dk/http2-causalprof
 * https://www.perimeterx.com/blog/ok-lets-go/#
 * https://turtledev.in/posts/go-concurrency-patterns-double-checked-locking/
@@ -178,8 +181,7 @@ The resources listed here are the ones that I couldn't really fit in any categor
 * https://eli.thegreenplace.net/2019/passing-callbacks-and-pointers-to-cgo/
 * https://www.bugsnag.com/blog/microservice-developer-tools-for-gophers
 * https://dave.cheney.net/high-performance-go-workshop/gophercon-2019.html
-* https://medium.com/@blanchon.vincent/go-vet-command-is-more-powerful-than-you-think-563e9fdec2f5
-* https://medium.com/@blanchon.vincent/go-finalizers-786df8e17687
 * https://doordash.engineering/2019/07/22/writing-delightful-http-middlewares-in-go/
 * https://engineering.mixpanel.com/2019/07/24/safely-rewriting-mixpanels-highest-throughput-service-in-golang/
 * https://www.ardanlabs.com/blog/2017/05/language-mechanics-on-stacks-and-pointers.html
+* https://medium.com/@cep21/how-to-correctly-use-context-context-in-go-1-7-8f2c0fafdf39
