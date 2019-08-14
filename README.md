@@ -80,6 +80,7 @@
 * https://medium.com/@blanchon.vincent/go-what-is-the-unsafe-package-d2443da36350
 * https://medium.com/@blanchon.vincent/go-context-and-cancellation-by-propagation-7a808bbc889c
 * https://medium.com/@blanchon.vincent/go-finalizers-786df8e17687
+* https://medium.com/yakka/better-go-error-handling-with-xerrors-1987650e0c79
 * [GopherCon 2016: Francesc Campoy - Understanding nil](https://youtu.be/ynoY2xz-F8s)
 * [Golang UK Conference 2016 - Paul Crawford - A Beginners Guide to Context](https://youtu.be/r4Mlm6qEWRs)
 ## Courses
@@ -147,7 +148,6 @@ The resources listed here are the ones that I couldn't really fit in any categor
 * https://segment.com/blog/allocation-efficiency-in-high-performance-go-services/
 * https://medium.com/rungo/interfaces-in-go-ab1601159b3a
 * https://medium.com/@the.cody.oss/reflecting-on-worker-pools-in-go-7f91f05a5f01
-* https://medium.com/yakka/better-go-error-handling-with-xerrors-1987650e0c79
 * https://medium.com/rungo/unit-testing-made-easy-in-go-25077669318
 * https://www.youtube.com/watch?v=ZJFMvWHtSAA
 * https://www.youtube.com/watch?v=uyifh6F_7WM
