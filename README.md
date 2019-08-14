@@ -51,6 +51,7 @@
 * https://blog.golang.org/using-go-modules
 ## Testing
 * https://dave.cheney.net/2019/05/07/prefer-table-driven-tests
+* http://cs-guy.com/blog/2015/01/test-main/
 * [LondonGophers 20/03/2019: Dave Cheney - Absolute Unit (Test)](https://youtu.be/UKe5sX1dZ0k)
 ## Benchmarking/Profiling
 * https://habr.com/ru/company/badoo/blog/301990/
@@ -141,7 +142,6 @@ The resources listed here are the ones that I couldn't really fit in any categor
 * https://peter.bourgon.org/go-best-practices-2016/ 
 * https://jacobmartins.com/2017/01/29/practical-golang-building-a-simple-distributed-one-value-database-with-hashicorp-serf/
 * https://blog.alexellis.io/golang-writing-unit-tests/
-* http://cs-guy.com/blog/2015/01/test-main/
 * https://medium.com/@owlwalks/how-would-you-organize-your-goroutine-and-channel-p1-e6e3c698f90c
 * https://medium.com/@povilasve/go-advanced-tips-tricks-a872503ac859
 * https://www.ardanlabs.com/blog/2018/12/garbage-collection-in-go-part1-semantics.html
@@ -176,7 +176,6 @@ The resources listed here are the ones that I couldn't really fit in any categor
 * https://blog.ankuranand.com/2018/09/29/diving-deep-into-the-golang-channels/
 * https://medium.com/@cep21/gos-wrapped-return-pattern-to-clean-up-objects-with-background-goroutines-b3454846a0d
 * https://itnext.io/the-top-10-most-common-mistakes-ive-seen-in-go-projects-4b79d4f6cd65
-* https://yourbasic.org/golang/recover-from-panic/
 * https://ieftimov.com/post/testing-in-go-table-driven-tests/
 * https://eli.thegreenplace.net/2019/passing-callbacks-and-pointers-to-cgo/
 * https://www.bugsnag.com/blog/microservice-developer-tools-for-gophers
