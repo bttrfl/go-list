@@ -82,6 +82,7 @@
 * https://medium.com/@blanchon.vincent/go-context-and-cancellation-by-propagation-7a808bbc889c
 * https://medium.com/@blanchon.vincent/go-finalizers-786df8e17687
 * https://medium.com/yakka/better-go-error-handling-with-xerrors-1987650e0c79
+* https://medium.com/vendasta/golang-pointer-receivers-and-error-pointer-returns-421b5b21a020
 * [GopherCon 2016: Francesc Campoy - Understanding nil](https://youtu.be/ynoY2xz-F8s)
 * [Golang UK Conference 2016 - Paul Crawford - A Beginners Guide to Context](https://youtu.be/r4Mlm6qEWRs)
 ## Courses
@@ -159,7 +160,6 @@ The resources listed here are the ones that I couldn't really fit in any categor
 * https://deliveroo.engineering/2019/05/17/testing-go-services-using-interfaces.html
 * https://medium.com/dm03514-tech-blog/golang-monitors-and-mutexes-a-light-survey-84f04f9b7c09
 * https://segment.com/blog/5-advanced-testing-techniques-in-go/
-* https://medium.com/vendasta/golang-pointer-receivers-and-error-pointer-returns-421b5b21a020
 * https://pingcap.com/blog/design-and-implementation-of-golang-failpoints/
 * https://povilasv.me/go-memory-management/
 * https://www.ardanlabs.com/blog/2018/08/scheduling-in-go-part1.html
