@@ -1,5 +1,5 @@
 # go-list
-<p>Just a list of useful go resources maintained mostly by myself for myself. But I believe you may also find something handy here!</p>
+<p>A curated list of great Go resources (articles, conferences, tutorials, etc). I maintain it mostly for myself, but why not share with everyone?:)</p>
 <p align="center"><img src="https://pbs.twimg.com/profile_images/717802216824840192/epO_pg3z.jpg" width="350px" alt="gopher with books"></img></p>
 
 ## Concurrency
