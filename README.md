@@ -131,7 +131,6 @@
 * [Dmitry Vyukov](http://www.1024cores.net/)
 * [Vincent Blanchon](https://medium.com/@blanchon.vincent)
 ## Awesome resources
-The resources listed here are the ones that I couldn't really fit in any category. They also may duplicate some mentioned above.
 * https://rakyll.org/archive/
 * https://golang.org/doc/
 * https://github.com/golang/go/wiki
