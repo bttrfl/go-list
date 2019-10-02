@@ -50,6 +50,7 @@
 * https://medium.com/@blanchon.vincent/go-buffered-and-unbuffered-channels-29a107c00268
 * https://medium.com/@blanchon.vincent/go-how-does-the-goroutine-stack-size-evolve-447fc02085e5
 * https://medium.com/@blanchon.vincent/go-how-does-defer-statement-work-1a9492689b6e
+* https://medium.com/a-journey-with-go/go-how-does-the-garbage-collector-watch-your-application-dbef99be2c35
 * https://blog.ankuranand.com/2018/09/29/diving-deep-into-the-golang-channels/
 * https://povilasv.me/go-memory-management/
 * https://blog.ankuranand.com/2019/02/20/a-visual-guide-to-golang-memory-allocator-from-ground-up/
