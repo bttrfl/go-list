@@ -77,7 +77,7 @@
 * https://medium.com/@hackintoshrao/daily-code-optimization-using-benchmarks-and-profiling-in-golang-gophercon-india-2016-talk-874c8b4dc3c5
 * https://artem.krylysov.com/blog/2017/03/13/profiling-and-optimizing-go-web-applications/
 * http://morsmachine.dk/http2-causalprof
-## Code style/Organization
+## Writing Go code
 * https://dave.cheney.net/practical-go/presentations/qcon-china.html
 * https://medium.com/statuscode/how-i-write-go-http-services-after-seven-years-37c208122831
 * https://github.com/golang/go/wiki/CodeReviewComments
@@ -92,6 +92,7 @@
 * https://medium.com/@benbjohnson/structuring-applications-in-go-3b04be4ff091
 * https://dev.to/eminetto/object-calisthenics-in-golang-1h75
 * https://medium.com/@cep21/how-to-correctly-use-context-context-in-go-1-7-8f2c0fafdf39
+* [dotGo 2016 - Dave Cheney - Do not fear first class functions](https://youtu.be/5buaPyJ0XeQ)
 * [dotGo 2019 - Dave Cheney - Constant Time](https://youtu.be/pN_lm6QqHcw)
 * [GopherCon 2018: Kat Zien - How Do You Structure Your Go Apps](https://youtu.be/oL6JBUk6tj0)
 * [7 common mistakes in Go and when to avoid them by Steve Francia (Docker)](https://youtu.be/29LLRKIL_TI)
