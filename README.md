@@ -70,6 +70,7 @@
 * https://blog.alexellis.io/golang-writing-unit-tests/
 * https://medium.com/@povilasve/go-advanced-tips-tricks-a872503ac859
 * https://deliveroo.engineering/2019/05/17/testing-go-services-using-interfaces.html
+* https://github.com/golang/go/wiki/TestComments
 * [LondonGophers 20/03/2019: Dave Cheney - Absolute Unit (Test)](https://youtu.be/UKe5sX1dZ0k)
 ## Benchmarking/Profiling
 * https://habr.com/ru/company/badoo/blog/301990/
