@@ -58,6 +58,7 @@
 * https://www.ardanlabs.com/blog/2018/08/scheduling-in-go-part1.html
 * https://www.ardanlabs.com/blog/2018/12/garbage-collection-in-go-part1-semantics.html
 * https://www.ardanlabs.com/blog/2017/05/language-mechanics-on-stacks-and-pointers.html
+* https://medium.com/i0exception/map-iteration-in-go-275abb76f721
 * [Как устроен garbage collector в Go 1.9 - Андрей Дроздов, Avito](https://youtu.be/CX4GSErFenI)
 ## Go tools
 * https://www.alexedwards.net/blog/an-overview-of-go-tooling
@@ -94,6 +95,8 @@
 * https://medium.com/@benbjohnson/structuring-applications-in-go-3b04be4ff091
 * https://dev.to/eminetto/object-calisthenics-in-golang-1h75
 * https://medium.com/@cep21/how-to-correctly-use-context-context-in-go-1-7-8f2c0fafdf39
+* https://github.com/uber-go/guide/blob/master/style.md
+* https://blog.usejournal.com/function-currying-in-go-a88672d6ebcf
 * [dotGo 2016 - Dave Cheney - Do not fear first class functions](https://youtu.be/5buaPyJ0XeQ)
 * [dotGo 2019 - Dave Cheney - Constant Time](https://youtu.be/pN_lm6QqHcw)
 * [GopherCon 2018: Kat Zien - How Do You Structure Your Go Apps](https://youtu.be/oL6JBUk6tj0)
@@ -119,6 +122,8 @@
 * [dotGo 2019 - James Bowes - Shattered Mirror: An Introduction to Reflect and Unsafe](https://www.youtube.com/watch?v=ZJFMvWHtSAA)
 ## Courses
 * [Программирование на Go Технострим Mail.Ru Group](https://www.youtube.com/watch?v=9Pk7xAT_aCU&list=PLrCZzMib1e9q-X5V9pTM6J0AemRWseM7I)
+* [Разработка веб-сервисов на Go - основы языка](https://www.coursera.org/learn/golang-webservices-1)
+* [Разработка веб-сервисов на Golang, часть 2](https://www.coursera.org/learn/golang-webservices-2)
 ## Books
 * https://www.packtpub.com/networking-and-servers/mastering-go
 * https://go101.org/article/101.html
@@ -129,20 +134,24 @@
 * [OSCON 2010: Rob Pike, "Public Static Void"](https://youtu.be/5kj5ApnhPAE)
 * [Go Proverbs - Rob Pike - Gopherfest - November 18, 2015](https://youtu.be/PAAkCSZUG1c)
 * [GopherCon 2016: Rob Pike - The Design of the Go Assembler](https://youtu.be/KINIAgRpkDA)
+## In practice
+* https://engineering.mixpanel.com/2019/07/24/safely-rewriting-mixpanels-highest-throughput-service-in-golang/
 ## Awesome authors
 * [Dave Cheney](https://dave.cheney.net/)
 * [Dmitry Vyukov](http://www.1024cores.net/)
 * [Vincent Blanchon](https://medium.com/@blanchon.vincent)
+* [Bill Kennedy](https://twitter.com/goinggodotnet)
 ## Awesome resources
 * https://rakyll.org/archive/
 * https://golang.org/doc/
 * https://github.com/golang/go/wiki
 * https://www.reddit.com/r/golang/
 * https://gobyexample.com/
-* https://github.com/tmrts/go-patterns *
+* https://github.com/tmrts/go-patterns
 * https://github.com/dariubs/GoBooks
 * http://www.go-gazette.com/
 * https://github.com/quii/learn-go-with-tests
+* https://www.calhoun.io/guide-to-go/
 ## Conference YouTube channels/playists
 * [Gopher Academy](https://www.youtube.com/channel/UCx9QVEApa5BKLw9r8cnOFEA)
 * [GopherCon Russia](https://www.youtube.com/channel/UCq-OB01F8YnS-FJpeJRCvMQ)
@@ -153,7 +162,6 @@
 ## Other
 * https://spacetime.dev/to-slice-or-not-to-slice
 * https://www.joeshaw.org/dont-defer-close-on-writable-files/
-* https://engineering.mixpanel.com/2019/07/24/safely-rewriting-mixpanels-highest-throughput-service-in-golang/
 * http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/index.html
 * https://itnext.io/the-top-10-most-common-mistakes-ive-seen-in-go-projects-4b79d4f6cd65
 * https://eli.thegreenplace.net/2019/passing-callbacks-and-pointers-to-cgo/
