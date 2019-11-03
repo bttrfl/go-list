@@ -27,6 +27,7 @@
 * https://dave.cheney.net/high-performance-go-workshop/gophercon-2019.html
 * https://stephen.sh/posts/quick-go-performance-improvements
 * https://segment.com/blog/allocation-efficiency-in-high-performance-go-services/
+* https://github.com/go101/go101/wiki/The-perceivable-optimizations-made-by-the-standard-Go-compiler-%28gc%29
 * [dotGo 2019 - Bryan Boreham - Go Tune Your Memory](https://www.youtube.com/watch?v=uyifh6F_7WM)
 * [Работа с сетью в Go. Алексей Акулович, Вконтакте.](https://youtu.be/p1ILhiq5Clw)
 * [Golang UK Conference 2017 | Guido Patanella - Go routines optimization](https://youtu.be/yo-CkroaQhs)
@@ -72,6 +73,7 @@
 * https://medium.com/@povilasve/go-advanced-tips-tricks-a872503ac859
 * https://deliveroo.engineering/2019/05/17/testing-go-services-using-interfaces.html
 * https://github.com/golang/go/wiki/TestComments
+* https://medium.com/a-journey-with-go/go-fuzz-testing-in-go-deb36abc971f
 * [LondonGophers 20/03/2019: Dave Cheney - Absolute Unit (Test)](https://youtu.be/UKe5sX1dZ0k)
 ## Benchmarking/Profiling
 * https://habr.com/ru/company/badoo/blog/301990/
@@ -97,6 +99,7 @@
 * https://medium.com/@cep21/how-to-correctly-use-context-context-in-go-1-7-8f2c0fafdf39
 * https://github.com/uber-go/guide/blob/master/style.md
 * https://blog.usejournal.com/function-currying-in-go-a88672d6ebcf
+* https://blog.golang.org/go1.13-errors
 * [dotGo 2016 - Dave Cheney - Do not fear first class functions](https://youtu.be/5buaPyJ0XeQ)
 * [dotGo 2019 - Dave Cheney - Constant Time](https://youtu.be/pN_lm6QqHcw)
 * [GopherCon 2018: Kat Zien - How Do You Structure Your Go Apps](https://youtu.be/oL6JBUk6tj0)
@@ -136,6 +139,8 @@
 * [GopherCon 2016: Rob Pike - The Design of the Go Assembler](https://youtu.be/KINIAgRpkDA)
 ## In practice
 * https://engineering.mixpanel.com/2019/07/24/safely-rewriting-mixpanels-highest-throughput-service-in-golang/
+* https://yalantis.com/blog/go-application-performance-monitoring/
+* https://medium.com/a-journey-with-go/go-elasticsearch-clients-study-case-dbaee1e02c7
 ## Awesome authors
 * [Dave Cheney](https://dave.cheney.net/)
 * [Dmitry Vyukov](http://www.1024cores.net/)
@@ -152,6 +157,7 @@
 * http://www.go-gazette.com/
 * https://github.com/quii/learn-go-with-tests
 * https://www.calhoun.io/guide-to-go/
+* https://github.com/hoanhan101/ultimate-go
 ## Conference YouTube channels/playists
 * [Gopher Academy](https://www.youtube.com/channel/UCx9QVEApa5BKLw9r8cnOFEA)
 * [GopherCon Russia](https://www.youtube.com/channel/UCq-OB01F8YnS-FJpeJRCvMQ)
