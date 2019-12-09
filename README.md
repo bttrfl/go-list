@@ -141,6 +141,7 @@
 * https://engineering.mixpanel.com/2019/07/24/safely-rewriting-mixpanels-highest-throughput-service-in-golang/
 * https://yalantis.com/blog/go-application-performance-monitoring/
 * https://medium.com/a-journey-with-go/go-elasticsearch-clients-study-case-dbaee1e02c7
+* https://medium.com/@valyala/improving-histogram-usability-for-prometheus-and-grafana-bc7e5df0e350
 ## Awesome authors
 * [Dave Cheney](https://dave.cheney.net/)
 * [Dmitry Vyukov](http://www.1024cores.net/)
