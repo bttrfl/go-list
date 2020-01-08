@@ -142,6 +142,9 @@
 * https://yalantis.com/blog/go-application-performance-monitoring/
 * https://medium.com/a-journey-with-go/go-elasticsearch-clients-study-case-dbaee1e02c7
 * https://medium.com/@valyala/improving-histogram-usability-for-prometheus-and-grafana-bc7e5df0e350
+* https://medium.com/tourradar/working-efficiently-with-json-in-go-cb80dcca0466
+* https://medium.com/@mssr/the-circuit-breaker-pattern-85e28c8e01b7
+* https://www.bugsnag.com/blog/microservice-developer-tools-for-gophers
 ## Awesome authors
 * [Dave Cheney](https://dave.cheney.net/)
 * [Dmitry Vyukov](http://www.1024cores.net/)
@@ -172,4 +175,3 @@
 * http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/index.html
 * https://itnext.io/the-top-10-most-common-mistakes-ive-seen-in-go-projects-4b79d4f6cd65
 * https://eli.thegreenplace.net/2019/passing-callbacks-and-pointers-to-cgo/
-* https://www.bugsnag.com/blog/microservice-developer-tools-for-gophers
